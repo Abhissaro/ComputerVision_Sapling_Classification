@@ -4,7 +4,7 @@
 1. Image Data Loading(+EDA)
 2. Image Data Preprocessing(Label Encoding, Data Augmentation, etc..)
 3. Modeling(Building, Fitting,etc..)
-4. Prediction of Test Data set
+4. Prediction of Test Image Data set
 
 ### Steps taken to solve the problem:
 
